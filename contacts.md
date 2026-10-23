@@ -12,7 +12,7 @@ permalink: /contacts/
         <b>City:</b>  Madrid<br>
         <b>Country:</b>  Spain<br>
         <b>Postal Code:</b>  28150<br>
-        <b>Phone Number:</b> <a href="tel:+34611998797">+34611998797</a> <br>
+        <b>Phone Number:</b> <a href="tel:+34669090520">+34 669 090 520</a> <br>
         <a href="mailto:purchasing@kt-mnt.com">purchasing@kt-mnt.com</a>
     </div>
     <div class="col">
